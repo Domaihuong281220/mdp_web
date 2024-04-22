@@ -64,7 +64,7 @@ const UseCases = () => {
                 <div className="w-[67.37%] items-center pvmax:max-md:w-[80%]  h-fit flex flex-row pvmax:max-md:flex-col">
                     
                     <div className="w-[50%] pvmax:max-md:w-full max-h-full   pvmax:max-md:pt-8 pr-8  pvmax:max-md:pr-0 flex justify-center content-center items-center">
-                        <img className="w-full h-fit rounded-[1rem]" src={Img1}></img>
+                        <img className="w-full h-fit rounded-[1rem] pvmax:max-lg:h-[18rem]" src={Img1}></img>
                     </div>
                     <div className="w-[50%] pvmax:max-md:w-full h-full flex flex-col justify-center align-middle">
                         <p className="text-[1rem] font-mono text-slate-300 py-2 text-start pvmax:max-md:text-center">Use Cases</p>
@@ -100,7 +100,7 @@ const UseCases = () => {
                         </p>
                     </div>
                     <div className="w-[50%] pvmax:max-md:w-full max-h-full  pl-8  pvmax:max-md:pl-0 flex justify-center content-center items-center">
-                        <img className="w-full h-fit rounded-[1rem]" src={Img1}></img>
+                        <img className="w-full h-fit rounded-[1rem] pvmax:max-lg:h-[18rem]" src={Img1}></img>
                     </div>
                 </div>
 
@@ -113,7 +113,7 @@ const UseCases = () => {
                 <div className="w-[67.37%] items-center pvmax:max-md:w-[80%]  h-fit flex flex-row pvmax:max-md:flex-col">
                     
                     <div className="w-[50%] pvmax:max-md:w-full max-h-full  pr-8  pvmax:max-md:pr-0 flex justify-center content-center items-center">
-                        <img className="w-full h-fit rounded-[1rem]" src={Img1}></img>
+                        <img className="w-full h-fit rounded-[1rem] pvmax:max-lg:h-[18rem]" src={Img1}></img>
                     </div>
                     <div className="w-[50%] pvmax:max-md:w-full h-full flex flex-col justify-center align-middle">
                         <p className="text-[1rem] font-mono text-slate-300 py-2 text-start pvmax:max-md:text-center">Use Cases</p>
@@ -179,7 +179,7 @@ const UseCases = () => {
                         </p>
                     </div>
                     <div className="w-[50%] pvmax:max-md:w-full max-h-full  pl-8  pvmax:max-md:pl-0 flex justify-center content-center items-center">
-                        <img className="w-full h-fit rounded-[1rem]" src={Img1}></img>
+                        <img className="w-full h-fit rounded-[1rem] pvmax:max-lg:h-[18rem]" src={Img1}></img>
                     </div>
                 </div>
 
@@ -255,7 +255,7 @@ const UseCases = () => {
                 <div className="w-[67.37%] items-center pvmax:max-md:w-[80%]  h-fit flex flex-row pvmax:max-md:flex-col">
                     
                     <div className="w-[50%] pvmax:max-md:w-full max-h-full  pr-8  pvmax:max-md:pr-0 flex justify-center content-center items-center">
-                        <img className="w-full h-fit rounded-[1rem]" src={Img1}></img>
+                        <img className="w-full h-fit rounded-[1rem] pvmax:max-lg:h-[18rem]" src={Img1}></img>
                     </div>
                     <div className="w-[50%] pvmax:max-md:w-full h-full flex flex-col justify-center align-middle">
                         <p className="text-[1rem] font-mono text-slate-300 py-2 text-start pvmax:max-md:text-center">Use Cases</p>
@@ -287,7 +287,7 @@ const UseCases = () => {
                         </p>
                     </div>
                     <div className="w-[50%] pvmax:max-md:w-full max-h-full pt-20 pl-8  pvmax:max-md:pl-0 flex justify-center content-center items-center">
-                        <img className="w-full h-fit rounded-[1rem]" src={Img1}></img>
+                        <img className="w-full h-fit rounded-[1rem] pvmax:max-lg:h-[18rem]" src={Img1}></img>
                     </div>
                 </div>
 
@@ -332,7 +332,7 @@ const UseCases = () => {
                 <div className="w-[67.37%] items-center pvmax:max-md:w-[80%]  h-fit flex flex-row pvmax:max-md:flex-col">
                     
                     <div className="w-[50%] pvmax:max-md:w-full max-h-full  pr-8  pvmax:max-md:pr-0 flex justify-center content-center items-center">
-                        <img className="w-full h-fit rounded-[1rem]" src={Img1}></img>
+                        <img className="w-full h-fit rounded-[1rem] pvmax:max-lg:h-[18rem]" src={Img1}></img>
                     </div>
                     <div className="w-[50%] pvmax:max-md:w-full h-full flex flex-col justify-center align-middle">
                         <p className="text-[1rem] font-mono text-slate-300 py-2 text-start pvmax:max-md:text-center">Use Cases</p>
